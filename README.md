@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
-
+<--
 ![Profile Banner](https://your-image-url.com)
-
+-->
 ## About Me
 
 Hello there! I'm [Your Name], an Android Developer with a passion for coding, music, and technology. I enjoy creating innovative solutions and building user-friendly applications. With a solid foundation in Android development, website design, and API integration, I strive to deliver high-quality software that meets user needs.
