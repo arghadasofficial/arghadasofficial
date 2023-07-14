@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner]([https://your-image-url.com](https://raw.githubusercontent.com/arghadasofficial/arghadasofficial/main/343106476_617276986981819_6945303499269019970_n.jpg))
+![Profile Banner]([[https://raw.githubusercontent.com/arghadasofficial/arghadasofficial/main/343106476_617276986981819_6945303499269019970_n.jpg]
 
 ## About Me
 
