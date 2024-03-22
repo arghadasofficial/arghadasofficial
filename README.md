@@ -2,11 +2,12 @@
 
 ## About Me
 
-Hello there! I'm [Your Name], an Android Developer with a passion for coding, music, and technology. I enjoy creating innovative solutions and building user-friendly applications. With a solid foundation in Android development, website design, and API integration, I strive to deliver high-quality software that meets user needs.
+Hello there! I'm Argha Das, an Android Developer with a passion for coding, music, and technology. I enjoy creating innovative solutions and building user-friendly applications. With a solid foundation in Android development, website design, and API integration, I strive to deliver high-quality software that meets user needs.
 
 ## Skills
 
-- Android Kotlin / Java
+- Android development using Kotlin | Java
+- Android development using Jetpack Compose
 - API Development
 
 Feel free to explore my repositories to see more of my work!
