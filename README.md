@@ -8,8 +8,6 @@ Hello there! I'm Argha Das, an Android Developer with a passion for coding, musi
 
 - Android App Development
 - Jetpack Compose
-- Java
-- Kotlin
 - API Development
 
 Feel free to explore my repositories to see more of my work!
