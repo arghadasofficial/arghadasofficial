@@ -6,9 +6,8 @@ Hello there! I'm Argha Das, an Android Developer with a passion for coding, musi
 
 ## Skills
 
-- Android App Development
-- Jetpack Compose
-- API Development
+- Android
+- API
 
 Feel free to explore my repositories to see more of my work!
 
