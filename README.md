@@ -17,6 +17,6 @@ You can reach out to me via email at [arghadasofficial@gmail.com.com](mailto:arg
 
 ## Connect with Me
 
-- Twitter: [@YourTwitterHandle](https://twitter.com/t_arghadas)
+- Twitter: [@MyTwitterHandle](https://twitter.com/t_arghadas)
 
 Looking forward to connecting with fellow developers, innovators, and enthusiasts. Let's make a difference in the world of technology!
