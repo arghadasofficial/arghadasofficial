@@ -32,8 +32,6 @@ Hey there! I'm **Argha Das**, an Android Developer and Backend Engineer who love
 💬 Have an idea? Let’s turn it into reality. I’m open to collaborations, freelance projects, and brainstorming tech innovations.
 
 - 📧 **Email:** [arghadasofficial@gmail.com](mailto:arghadasofficial@gmail.com)  
-- 🐦 **Twitter:** [@t_arghadas](https://twitter.com/t_arghadas)  
-
 ---
 
 ## 🚀 Let’s Create the Future
